@@ -1,0 +1,6 @@
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\bin\Debug\CA_TheConversation.exe.config
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\bin\Debug\CA_TheConversation.exe
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\bin\Debug\CA_TheConversation.pdb
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\obj\Debug\CA_TheConversation.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\obj\Debug\CA_TheConversation.exe
+C:\Users\Noah\Desktop\CIT 110\Week 01\CA_TheConversation\CA_TheConversation\obj\Debug\CA_TheConversation.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_The_Expert_System", "CA_The_Expert_System.csproj", "{691444FF-1578-4A7B-9F8B-EC97A826DB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691444FF-1578-4A7B-9F8B-EC97A826DB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691444FF-1578-4A7B-9F8B-EC97A826DB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691444FF-1578-4A7B-9F8B-EC97A826DB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691444FF-1578-4A7B-9F8B-EC97A826DB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BED6799C-5D76-4DD5-BD33-F55DB59FE8F6}
+	EndGlobalSection
+EndGlobal
